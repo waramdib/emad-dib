@@ -1,2 +1,6 @@
 # emad-dib
-This script scans for hidden files The script is designed in Python and is under development
+apt-get update
+apt-get install python
+git clone https://github.com/emad-dib/emad-dib.git
+cd emad-dib
+python3 emad-dib.py
