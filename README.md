@@ -7,7 +7,7 @@ The script is designed in Python and is under development
 2-apt-get install python
 
 
-3-git clone https://github.com/waramdib/emad-dib
+3-git clone https://github.com/Hacker.ly/emad-dib
 
 
 4-cd emad-dib
