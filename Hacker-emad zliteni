@@ -1,0 +1,21 @@
+apt-get update
+
+
+apt-get install python
+
+
+git clone https://github.com/waramdib/emad-dib
+
+
+cd emad-dib
+
+
+python3 emad-dib.py
+
+___
+
+This script scans for hidden files
+The script is designed in Python and is under development
+___
+I am emad from libya my age 20 I am a student in high University study in the field of cybersecurity My certificate CEH , OSCP , CCNA , Netowrk+.....other
+https://www.facebook.com/emad.alzalitni
